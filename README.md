@@ -5,4 +5,5 @@ La constante mágica se calcula como: m=n*(n^2+1)/2, donde n es el orden de la m
 
 
 Autor: Carlos Calero De La Fuente
+
 Fecha: 29/01/2014
